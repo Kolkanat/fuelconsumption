@@ -17,3 +17,5 @@ email: kolkanat.bashpayev@gmail.com
 #Currently project uses inmemory db as a data storage.
 
 # requirements
+
+https://github.com/Kolkanat/fuelconsumption/blob/master/backend-homework-200418-1516-102.pdf
